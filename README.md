@@ -1,1 +1,1 @@
-# test_mkl
+# test performance of mkl openblas
